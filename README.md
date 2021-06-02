@@ -2,14 +2,14 @@
 Application which allows user to manage food recipes using SpringBoot, Microservice, RESTAPI, Swagger, Spring security.
 
 Tools/Technologies used:
-**•	Spring Tool Suite 4
+•	Spring Tool Suite 4
 •	Java 1.8 
 •	Maven
 •	Spring Boot 2.4.5
 •	Rest API
 •	Microservices
 •	MySQL database
-•	POSTMAN**
+•	POSTMAN
 
 API’s to show all available recipes and the actions to create, update and delete a recipe.
 POSTMAN tool is used to test the APIs created.
