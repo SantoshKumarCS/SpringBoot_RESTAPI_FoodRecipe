@@ -91,7 +91,6 @@ Sample Request Body:
  
 4. Delete Recipe API : http://localhost:8080/recipe/delete/1
 Only admin role has access to this API.
-Credentials: username: admin, password: admin
 Open Postman:
 Provide delete request API to delete recipe added with providing basic authentication information.
 
